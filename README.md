@@ -1,3 +1,4 @@
 ### TH_Norm_A
-- Kleinteile die für die Elektronikkomponenten zur Fertigung oder zum Einbau benötigt werden
+- Kleinteile die für die Elektronikkomponenten benötigt werden
 - Pinbelegungen
+- Listen
