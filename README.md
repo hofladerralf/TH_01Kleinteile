@@ -24,10 +24,16 @@
     <td> Pin1 = GND <br> Pin2 = \RST <br> Pin3 = SCK <br> Pin4 = MOSI <br> Pin5 = MISO <br> Pin6 = +UB (Check 3V3 oder 5V)  </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/hofladerralf/TH_Norm_A/blob/main/Pics_Steckverbinder_PCB/Mate-N-Lok_0350428.jpg"  alt="1" height="60" ></td>
+    <td> <img src="https://github.com/hofladerralf/TH_Norm_A/blob/main/Pics_Steckverbinder_PCB/Mate-N-Lok_0350428.jpg"  alt="1" width="120" ></td>
     <td> Modul Power  </td>
     <td> Mate-N-Lok  </td>
-    <td> Pin1 = GND <br> Pin2 = \RST </td>
+    <td> Pin1 = +12V <br> Pin2 = GND </td>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/hofladerralf/TH_Norm_A/blob/main/Pics_Steckverbinder_PCB/Mini-Mate_1-770874-1.jpg"  alt="1" width="120" ></td>
+    <td> Main Power  </td>
+    <td> Mate-N-Lok  </td>
+    <td> Pin1 = +12V (15) <br> Pin2 = +12V (30) <br> Pin2 = GND <br> Pin4 = Freq (1/min) </td>
   </tr>
   
   
